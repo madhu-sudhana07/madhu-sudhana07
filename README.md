@@ -1,5 +1,23 @@
 ## Hi there 👋
+Files Uploaded: All 9 business case files are present and uploaded:
 
+Business_Case_OLA_Ensemble_Learning.ipynb
+
+CreditScoreAnalysis.ipynb
+
+Jamboree_Education.ipynb
+
+Ninjacart_Biz_Case.ipynb
+
+Nx_BCase_Madhusudhana_.ipynb
+
+Porter_Biz_Case_Study.ipynb
+
+Walmart_BizCase.ipynb
+
+YuluBizCase.ipynb
+
+Target SQL.pdf
 <!--
 **madhu-sudhana07/madhu-sudhana07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
