@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi there, I'm Madhusudhana 👋
 
-**Data Quality Analyst & Data Analyst**  
+**Associate Data Analyst & Data Analyst**  
 📍 Bengaluru, India | [Email](mailto:madhusudhana0796@gmail.com) | [LinkedIn](https://www.linkedin.com/)
 
 ---
