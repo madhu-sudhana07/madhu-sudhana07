@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 💼 **Data Quality Analyst at Finbox** — Automating data validation pipelines, optimizing financial transaction classification, and monitoring system metrics.
+- 💼 **Associate Data Analyst at Finbox** — Automating data validation pipelines, optimizing financial transaction classification, and monitoring system metrics.
 - 🎓 **M.Sc. in Computer Science (AI & ML)** from Woolf University (Scaler) | Specialisation in Data Science & Analytics from Scaler.
 - 🎓 **M.Sc. in Chemistry** from St.Josephs College | Specialisation in Analytical Chemistry.
 - 🔬 Co-author of peer-reviewed research published in *Materials Science for Energy Technologies* (Elsevier).
